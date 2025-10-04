@@ -1,4 +1,3 @@
-// User function Template for Java
 class Solution {
     long minDifference(int N, int A[]) {
         // Step 1: prefix sums
